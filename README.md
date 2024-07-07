@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Adish sharma
 - 👀 I’m interested in learning new things that will help me build my skills
+- 🎮 Very interested in game development
 - 🌱 I’m currently studying for my bachelors in Computer science and engineering
 - 📫 How to reach me : 14adish@gmail.com
 
